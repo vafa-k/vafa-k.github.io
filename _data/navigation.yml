@@ -2,6 +2,8 @@
 main:
 - title: Home
   url: /
+- title: Elements of Mathematics
+  url: /mathelements/
   # - title: Research
   # url: /research/
   # - title: Talks
