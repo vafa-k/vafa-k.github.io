@@ -151,7 +151,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url: ""
     - label: "Mathstodon"
-      icon: "fab fa-fw fa-mastodon-square"
+      icon: "fab fa-fw fa-mastodon"
       url: "https://mathstodon.xyz/@vafakhalighi"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
