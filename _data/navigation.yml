@@ -3,7 +3,7 @@ main:
 - title: Home
   url: /
 - title: Elements of Mathematics
-  url: /mathelements/
+  url: /math/
   # - title: Research
   # url: /research/
   # - title: Talks
