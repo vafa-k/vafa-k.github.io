@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Elements of Mathematics"
 permalink: /math/
 author_profile: true
